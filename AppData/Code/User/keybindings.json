@@ -1,0 +1,27 @@
+// Place your key bindings in this file to override the defaultsauto[]
+[
+	{
+		"key": "ctrl+alt+p",
+		"command": "workbench.action.openSettingsJson"
+	},
+	{
+		"key": "ctrl+alt+k",
+		"command": "workbench.action.moveActiveEditorGroupUp"
+	},
+	{
+		"key": "ctrl+alt+j",
+		"command": "workbench.action.moveActiveEditorGroupDown"
+	},
+	{
+		"key": "ctrl+alt+h",
+		"command": "workbench.action.moveActiveEditorGroupLeft"
+	},
+	{
+		"key": "ctrl+alt+l",
+		"command": "workbench.action.moveActiveEditorGroupRight"
+	},
+	{
+		"key": "ctrl+alt+t",
+		"command": "editor.action.indentationToTabs"
+	}
+]

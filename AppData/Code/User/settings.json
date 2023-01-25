@@ -1,0 +1,59 @@
+{
+	"security.workspace.trust.untrustedFiles": "open",
+
+	"deno.enable": true,
+	"deno.lint": true,
+	"deno.unstable": true,
+	"deno.path":"C:\\Users\\Mark\\.cargo\\bin\\deno.exe",
+	"deno.importMap": "./import_map.json",
+
+	"vscode-neovim.neovimExecutablePaths.win32": "C:\\tools\\neovim\\nvim-win64\\bin\\nvim.exe",
+
+	"workbench.activityBar.visible": false,
+	"workbench.iconTheme": "material-icon-theme",
+	"workbench.colorTheme": "Verdandi Alter",
+
+	"files.trimTrailingWhitespace": true,
+
+	"terminal.integrated.defaultLocation": "editor",
+
+	"editor.tabSize": 4,
+	"editor.insertSpaces": false,
+	"editor.detectIndentation": false,
+
+	"editor.renderWhitespace": "all",
+	"editor.scrollbar.horizontal": "hidden",
+	"editor.scrollbar.vertical": "hidden",
+	"editor.minimap.enabled": false,
+	"editor.acceptSuggestionOnCommitCharacter": false,
+
+	"powershell.integratedConsole.showOnStartup": false,
+	"powershell.integratedConsole.startInBackground": true,
+
+	"editor.bracketPairColorization.enabled": true,
+	"workbench.colorCustomizations": {
+		"editorBracketHighlight.foreground1": "#949ca3",
+		"editorBracketHighlight.foreground2": "#b5bbc0",
+		"editorBracketHighlight.foreground3": "#d8dce0",
+		"editorBracketHighlight.foreground4": "#949ca3",
+		"editorBracketHighlight.foreground5": "#b5bbc0",
+		"editorBracketHighlight.foreground6": "#d8dce0",
+		"editorBracketHighlight.unexpectedBracket.foreground": "#f27475"
+	},
+
+	"javascript.updateImportsOnFileMove.enabled": "always",
+	"explorer.confirmDragAndDrop": false,
+	"gitlens.defaultDateLocale": null,
+
+	"hexeditor.columnWidth": 16,
+	"hexeditor.showDecodedText": true,
+	"hexeditor.defaultEndianness": "little",
+	"hexeditor.inspectorType": "aside",
+
+	"[json]": {
+		"editor.defaultFormatter": "denoland.vscode-deno"
+	},
+	"gitlens.advanced.messages": {
+		"suppressGitVersionWarning": true
+	}
+}
